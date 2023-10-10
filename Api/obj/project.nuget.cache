@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6gICk+W3SVOrBNnRBy+EpGPunjsdfqn9DB9HaoTDj5T1kWYXZQ5ZaDf5iQeO4daYx8EYza3qntGHWV/lzVffCA==",
+  "dgSpecHash": "JD9najXbPMiD1YHpLMhzBxoAVUNpC3X7dL6oD0J0YBx0JveB/sYDIcw9E0lIXe9nz/U31n7wo4i22hK2niuCzQ==",
   "success": true,
-  "projectFilePath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Api/Api.csproj",
+  "projectFilePath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Api/Api.csproj",
   "expectedPackageFiles": [
     "/home/skylab-110/.nuget/packages/aspnetcoreratelimit/5.0.0/aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
@@ -16,6 +16,7 @@
     "/home/skylab-110/.nuget/packages/itext.pdfhtml/5.0.1/itext.pdfhtml.5.0.1.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/itext7.pdfhtml/5.0.1/itext7.pdfhtml.5.0.1.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.11/microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",
+    "/home/skylab-110/.nuget/packages/microsoft.aspnetcore.mvc.versioning/5.1.0/microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/microsoft.dotnet.platformabstractions/1.1.0/microsoft.dotnet.platformabstractions.1.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Api/Api.csproj": {}
+    "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Api/Api.csproj": {}
   },
   "projects": {
-    "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Api/Api.csproj": {
+    "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Api/Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Api/Api.csproj",
+        "projectUniqueName": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Api/Api.csproj",
         "projectName": "Api",
-        "projectPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Api/Api.csproj",
+        "projectPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Api/Api.csproj",
         "packagesPath": "/home/skylab-110/.nuget/packages/",
-        "outputPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Api/obj/",
+        "outputPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/skylab-110/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/Application.csproj": {
-                "projectPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/Application.csproj"
+              "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Application/Application.csproj": {
+                "projectPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Application/Application.csproj"
               }
             }
           }
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[7.0.11, )"
             },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.11, )"
@@ -69,6 +73,10 @@
               "version": "[7.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
               "version": "[6.5.0, )"
             }
@@ -96,14 +104,14 @@
         }
       }
     },
-    "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/Application.csproj": {
+    "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/Application.csproj",
+        "projectUniqueName": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/Application.csproj",
+        "projectPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Application/Application.csproj",
         "packagesPath": "/home/skylab-110/.nuget/packages/",
-        "outputPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/",
+        "outputPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/skylab-110/.nuget/NuGet/NuGet.Config"
@@ -118,11 +126,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Domain/Domain.csproj": {
-                "projectPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Domain/Domain.csproj"
+              "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Domain/Domain.csproj": {
+                "projectPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Domain/Domain.csproj"
               },
-              "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Persistence/Persistence.csproj": {
-                "projectPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Persistence/Persistence.csproj"
+              "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Persistence/Persistence.csproj": {
+                "projectPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Persistence/Persistence.csproj"
               }
             }
           }
@@ -156,14 +164,14 @@
         }
       }
     },
-    "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Domain/Domain.csproj": {
+    "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Domain/Domain.csproj",
+        "projectUniqueName": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Domain/Domain.csproj",
+        "projectPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Domain/Domain.csproj",
         "packagesPath": "/home/skylab-110/.nuget/packages/",
-        "outputPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Domain/obj/",
+        "outputPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/skylab-110/.nuget/NuGet/NuGet.Config"
@@ -223,14 +231,14 @@
         }
       }
     },
-    "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Persistence/Persistence.csproj": {
+    "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Persistence/Persistence.csproj",
+        "projectUniqueName": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Persistence/Persistence.csproj",
+        "projectPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Persistence/Persistence.csproj",
         "packagesPath": "/home/skylab-110/.nuget/packages/",
-        "outputPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Persistence/obj/",
+        "outputPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/skylab-110/.nuget/NuGet/NuGet.Config"
@@ -245,8 +253,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Domain/Domain.csproj": {
-                "projectPath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Domain/Domain.csproj"
+              "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Domain/Domain.csproj": {
+                "projectPath": "/home/skylab-110/Desktop/NO TOCAR-ANGELICA MORALES/VeterinariaCorregido/Domain/Domain.csproj"
               }
             }
           }
