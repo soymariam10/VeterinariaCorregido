@@ -15,3 +15,20 @@
 /home/skylab-110/Desktop/VeterinariaCorregido/Application/obj/Debug/net7.0/refint/Application.dll
 /home/skylab-110/Desktop/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.pdb
 /home/skylab-110/Desktop/VeterinariaCorregido/Application/obj/Debug/net7.0/ref/Application.dll
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/bin/Debug/net7.0/Application.deps.json
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/bin/Debug/net7.0/Application.dll
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/bin/Debug/net7.0/Application.pdb
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/bin/Debug/net7.0/Domain.dll
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/bin/Debug/net7.0/Persistence.dll
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/bin/Debug/net7.0/Persistence.pdb
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/bin/Debug/net7.0/Domain.pdb
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.dll
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/refint/Application.dll
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/Application.pdb
+/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/obj/Debug/net7.0/ref/Application.dll

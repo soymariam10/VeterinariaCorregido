@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tqdFyjFEhv9HweeMSR2Y8swAQHumzd+V0PI07WXlTdSjmWS8WPyEIBg5of5FKOyZvxZTP4TYEynvV4vcjFhiRw==",
+  "dgSpecHash": "7h9W+U1RMUMWCQVfkuSpH9BUlV3KBMVcwPnj3FeyQ3dFQwkxU2FxI/jRT/UwYucQPgsv146l7ghBMyZlRWRHcA==",
   "success": true,
-  "projectFilePath": "/home/skylab-110/Desktop/VeterinariaCorregido/Application/Application.csproj",
+  "projectFilePath": "/home/skylab-110/Desktop/NO TOCAR/VeterinariaCorregido/Application/Application.csproj",
   "expectedPackageFiles": [
     "/home/skylab-110/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
@@ -12,9 +12,9 @@
     "/home/skylab-110/.nuget/packages/itext.pdfhtml/5.0.1/itext.pdfhtml.5.0.1.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/itext7.pdfhtml/5.0.1/itext7.pdfhtml.5.0.1.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/microsoft.dotnet.platformabstractions/1.1.0/microsoft.dotnet.platformabstractions.1.1.0.nupkg.sha512",
-    "/home/skylab-110/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
-    "/home/skylab-110/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
-    "/home/skylab-110/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.11/microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
+    "/home/skylab-110/.nuget/packages/microsoft.entityframeworkcore/7.0.12/microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
+    "/home/skylab-110/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.12/microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
+    "/home/skylab-110/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.12/microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.2/microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/home/skylab-110/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

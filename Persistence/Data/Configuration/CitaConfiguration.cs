@@ -19,12 +19,11 @@ public class CitaConfiguration : IEntityTypeConfiguration<Cita>
 
         builder.Property(p => p.Fecha)
         .HasColumnName("Fecha")
-        .HasColumnType ("DateTime")
+        .HasColumnType ("date")
         .IsRequired();
 
         builder.Property(p => p.Hora)
         .HasColumnName("Hora")
-        .HasColumnType("DateTime")
         .IsRequired();
 
         //relacion de uno a muchos

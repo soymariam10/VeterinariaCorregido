@@ -1,0 +1,13 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Api.Dtos.Cita;
+
+    public class CitaDto
+    {
+        public int IdCita { get; set; }
+        public DateTime Fecha { get; set; }
+        
+    }

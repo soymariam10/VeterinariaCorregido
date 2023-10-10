@@ -14,7 +14,7 @@ namespace Dominio.Entities;
         public string ? Apellido { get; set; }
         [Required]
         public string ? Email { get; set; }
-        public ClienteDireccion ? ClienteDireccion { get; set;}
+        public ICollection<ClienteDireccion> ? ClienteDirecciones { get; set; }
         public ICollection<ClienteTelefono> ? ClientesTelefonos { get; set; }
         public ICollection<Mascota> ? Mascostas { get; set; }
         public ICollection<Cita> ? Citas { get; set; }

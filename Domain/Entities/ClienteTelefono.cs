@@ -11,6 +11,6 @@ namespace Dominio.Entities;
         [Required]
         public int IdCliente { get; set; }
         [Required]
-        public string ? Numero { get; set; }
+        public int Numero { get; set; }
         public Cliente ? Clientes { get; set; }
     }
